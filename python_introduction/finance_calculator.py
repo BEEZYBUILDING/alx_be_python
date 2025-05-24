@@ -1,6 +1,6 @@
 #This is the fifth python project.
-income = int(input("Enter your monthly income: "))
-expense = int(input("Enter your total monthly expenses: "))
+income = float(input("Enter your monthly income: "))
+expense = float(input("Enter your total monthly expenses: "))
 
 monthly_savings = income - expense
 
